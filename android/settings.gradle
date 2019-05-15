@@ -1,0 +1,3 @@
+rootProject.name = 'poppin_3395'
+
+include ':app'
